@@ -1,2 +1,2 @@
-# PictureBed
+# upload
 图床
